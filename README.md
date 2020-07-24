@@ -1,4 +1,4 @@
-# STM32SD
+# STM32_SD
 
 ## Port of ArduinoIDE SD implementation for STM32-NUCLEO using HW SPI
 
